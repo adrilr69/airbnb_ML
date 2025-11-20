@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-11-20T23:02:05.936Z
-"""
-
-# # 0. Drive connexion
-
-
-# Connecting our drive to the notebook for connecting the csv file from previous notebook
-
-
-from google.colab import drive
-drive.mount('/content/drive')
 
 # # 1. Imports
 
